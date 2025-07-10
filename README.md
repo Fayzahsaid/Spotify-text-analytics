@@ -17,7 +17,7 @@ This project applies Natural Language Processing (NLP) techniques to analyze Spo
 
 - **Source:** Spotify user reviews
 - **Columns:**
-  - `review` – The raw user feedback
+  - `review` – The raw user feedback.
   - `label` – Sentiment label (`POSITIVE` or `NEGATIVE`)
 
 The reviews cover a range of topics, including:
