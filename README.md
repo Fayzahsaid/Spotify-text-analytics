@@ -105,7 +105,7 @@ Each step provided unique insights:
   - App crashes
   - Annoying ads
   - Subscription cost
-  - Desire for more curated music suggestions
+  - Desire for more curated music suggestions.
 - These findings provide clear direction for product improvement and competitive strategy.
 
 ---
