@@ -8,9 +8,8 @@ This project applies Natural Language Processing (NLP) techniques to analyze Spo
 
 | File | Description |
 |------|-------------|
-| `text_analytics_assignment.ipynb` | Jupyter notebook with code for text cleaning, sentiment analysis, topic modeling, and visualizations |
-| `Text_Analytics_Report.pdf` | Written report summarizing the methodology, results, and business insights |
-| *(DATASET.csv)* | CSV file of user reviews and sentiment labels (not included here) |
+| `text_analytics.ipynb` | Jupyter notebook with code for text cleaning, sentiment analysis, topic modeling, and visualizations |
+
 
 ---
 
