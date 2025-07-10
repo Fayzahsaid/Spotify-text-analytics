@@ -113,7 +113,7 @@ Each step provided unique insights:
 ## Business Value
 
 This analysis demonstrates how companies like Spotify can:
-- Use **text analytics** to monitor customer satisfaction in real-time
+- Use **text analytics** to monitor customer satisfaction in real-time.
 - Apply **sentiment trends** to identify at-risk user groups.
 - Leverage **topic clusters** to prioritize feature updates.
 - Align customer voice with strategic frameworks (e.g., Porter’s Five Forces)
