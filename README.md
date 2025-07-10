@@ -60,7 +60,7 @@ Findings:
 - Key topics identified:
   - App crashes / bugs
   - Ad interruptions
-  - Subscription issues
+  - Subscription issues.
   - Music recommendations and variety
 
 ### 5. Visualizations
