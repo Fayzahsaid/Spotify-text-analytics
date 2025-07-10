@@ -39,7 +39,7 @@ The reviews cover a range of topics, including:
 
 ### 2. Sentiment Analysis
 - Used the `label` column to plot sentiment distribution
-- Generated **WordClouds** for both positive and negative reviews
+- Generated **WordClouds** for both positive and negative reviews.
 
 ### 3. Feature-Based Sentiment Analysis
 Analyzed user sentiment toward key aspects:
