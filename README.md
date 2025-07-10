@@ -56,7 +56,7 @@ Findings:
 
 ### 4. Topic Modeling
 - Applied **Latent Dirichlet Allocation (LDA)**
-- Preprocessing: stopword removal, lemmatization, document-term matrix
+- Preprocessing: stopword removal, lemmatization, document-term matrix.
 - Key topics identified:
   - App crashes / bugs
   - Ad interruptions
