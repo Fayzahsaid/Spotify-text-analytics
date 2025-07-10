@@ -67,7 +67,7 @@ Findings:
 Used:
 - `Matplotlib` & `Seaborn` for plotting
 - `WordCloud` for visual frequency analysis
-- Topic clusters and sentiment plots for intuitive presentation
+- Topic clusters and sentiment plots for intuitive presentation.
 
 ---
 
