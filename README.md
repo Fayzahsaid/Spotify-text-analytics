@@ -25,7 +25,7 @@ The reviews cover a range of topics, including:
 - Pricing and subscriptions
 - Advertisements
 - Technical bugs
-- Comparison with competing platforms
+- Comparison with competing platforms.
 
 ---
 
