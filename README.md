@@ -35,7 +35,7 @@ The reviews cover a range of topics, including:
 - Converted text to lowercase
 - Removed special characters, links, and numbers
 - Removed extra whitespace
-- Created `cleaned_review` column for analysis
+- Created `cleaned_review` column for analysis.
 
 ### 2. Sentiment Analysis
 - Used the `label` column to plot sentiment distribution
