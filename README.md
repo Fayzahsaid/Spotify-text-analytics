@@ -52,7 +52,7 @@ Analyzed user sentiment toward key aspects:
 
 Findings:
 - `price` and `support` had more negative sentiment
-- `performance` and `app` received mixed or balanced reviews
+- `performance` and `app` received mixed or balanced reviews.
 
 ### 4. Topic Modeling
 - Applied **Latent Dirichlet Allocation (LDA)**
